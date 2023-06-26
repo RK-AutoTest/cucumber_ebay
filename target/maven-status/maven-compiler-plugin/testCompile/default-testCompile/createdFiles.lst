@@ -1,0 +1,4 @@
+stepDefinations\StepDefinitions.class
+pages\pagesObjects.class
+runners\testRunner.class
+stepDefinations\testBase.class
